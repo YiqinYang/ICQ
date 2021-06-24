@@ -20,4 +20,4 @@ $ python3 run_agent.py
   
 + Enjoy Offline Reinforcement Learning :)
   
-+ If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn.
++ If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
