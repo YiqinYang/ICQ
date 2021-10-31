@@ -4,10 +4,12 @@ This is a pytorch implementation of ICQ on [Datasets for Deep Data-Driven Reinfo
 for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400).
 
 ## Requirements
-
+Single-agent:
 - python=3.6.5
 - [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl)
 - torch=1.1.0
+
+Multi-agent:
 
 ## Quick Start
 In single-agent tasks:
