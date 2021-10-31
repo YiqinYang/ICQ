@@ -4,13 +4,14 @@ This is a pytorch implementation of ICQ on [Datasets for Deep Data-Driven Reinfo
 for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400).
 
 ## Requirements
-Single-agent:
+**Single-agent:**
+
 Please enter the `ICQ_mu`, `ICQ_softmax`, `ICQ-antmaze_mu` and `ICQ-antmaze_softmax` folders.
 - python=3.6.5
 - [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl)
 - torch=1.1.0
 
-Multi-agent:
+**Multi-agent:**
 Please enter the `ICQ-MA` folder.
 Then, set up StarCraft II and SMAC:
 ```shell
@@ -39,6 +40,7 @@ They are all located in `src/config`.
 All results will be stored in the `Results` folder.
 
 ## Citing
+If our work could provide you with some insights, it will be our honor.
 If you find this open source release useful, please reference in your paper:
 ```
 @article{yang2021believe,
