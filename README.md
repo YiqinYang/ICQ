@@ -1,4 +1,4 @@
-# ICQ (Single Agent)
+# Iimplicit Constriant Q-Learning
 
 This is a pytorch implementation of ICQ on [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl), the corresponding paper of ICQ is [Believe What You See: Implicit Constraint Approach
 for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400).
@@ -16,8 +16,4 @@ $ python3 run_agent.py
 ```
 
 ## Note
-+ Since the multi-agent version of ICQ requires the specific datasets in SMAC, we will publish the complete codes later.
-  
-+ Enjoy Offline Reinforcement Learning :)
-  
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
