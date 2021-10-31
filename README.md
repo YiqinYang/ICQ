@@ -28,7 +28,7 @@ $ python3 main.py
 ```
 In multi-agent tasks:
 ```shell
-$ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_name=MMM
+$ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_name=3s_vs_3z
 ```
 The config files act as defaults for an algorithm or environment. 
 
