@@ -10,6 +10,14 @@ Single-agent:
 - torch=1.1.0
 
 Multi-agent:
+Set up StarCraft II and SMAC:
+```
+bash install_sc2.sh
+```
+
+This will download SC2 into the 3rdparty folder and copy the maps necessary to run over.
+
+The requirements.txt file can be used to install the necessary packages into a virtual environment (not recommended).
 
 ## Quick Start
 In single-agent tasks:
