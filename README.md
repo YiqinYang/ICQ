@@ -40,7 +40,14 @@ All results will be stored in the `Results` folder.
 
 ## Citing
 If you find this open source release useful, please reference in your paper:
-
+```
+@article{yang2021believe,
+  title={Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning},
+  author={Yang, Yiqin and Ma, Xiaoteng and Li, Chenghao and Zheng, Zewu and Zhang, Qiyuan and Huang, Gao and Yang, Jun and Zhao, Qianchuan},
+  journal={arXiv preprint arXiv:2106.03400},
+  year={2021}
+}
+```
 
 ## Note
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
