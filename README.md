@@ -24,11 +24,11 @@ This will download SC2 into the 3rdparty folder and copy the maps necessary to r
 The `requirements.txt` file can be used to install the necessary packages into a virtual environment (not recommended).
 
 ## Quick Start
-In single-agent tasks:
+**Single-agent:**
 ```shell
 $ python3 main.py
 ```
-In multi-agent tasks:
+**Multi-agent:**
 ```shell
 $ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_name=3s_vs_3z
 ```
