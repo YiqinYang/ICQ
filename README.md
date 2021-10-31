@@ -12,6 +12,7 @@ Please enter the `ICQ_mu`, `ICQ_softmax`, `ICQ-antmaze_mu` and `ICQ-antmaze_soft
 - torch=1.1.0
 
 **Multi-agent:**
+
 Please enter the `ICQ-MA` folder.
 Then, set up StarCraft II and SMAC:
 ```shell
