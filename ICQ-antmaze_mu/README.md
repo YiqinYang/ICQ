@@ -1,4 +1,4 @@
-# AWAC
+# ICQ with learning auxiliary behavior model.
 
 ## Requirements
 
