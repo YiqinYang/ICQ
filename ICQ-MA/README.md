@@ -2,9 +2,7 @@
 
 ## Requirements
 
-Multi-agent:
-Please enter the `ICQ-MA` folder.
-Then, set up StarCraft II and SMAC:
+Set up StarCraft II and SMAC:
 ```shell
 bash install_sc2.sh
 ```
