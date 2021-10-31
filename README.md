@@ -10,14 +10,15 @@ Single-agent:
 - torch=1.1.0
 
 Multi-agent:
+
 Set up StarCraft II and SMAC:
-```
+```shell
 bash install_sc2.sh
 ```
 
 This will download SC2 into the 3rdparty folder and copy the maps necessary to run over.
 
-The requirements.txt file can be used to install the necessary packages into a virtual environment (not recommended).
+The `requirements.txt` file can be used to install the necessary packages into a virtual environment (not recommended).
 
 ## Quick Start
 In single-agent tasks:
@@ -30,4 +31,4 @@ $ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_nam
 ```
 ## Note
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
-+ The implementation in multi-agent tasks is based on PyMARL and SMAC codebases which are open-sourced.
++ The implementation of the following methods can also be found in this codebase, which are finished by the authors of [PyMARL](https://github.com/oxwhirl/pymarl):
