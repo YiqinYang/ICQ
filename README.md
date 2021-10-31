@@ -40,8 +40,7 @@ They are all located in `src/config`.
 All results will be stored in the `Results` folder.
 
 ## Citing
-If our work could provide you with some insights, it will be our honor.
-If you find this open source release useful, please reference in your paper:
+If you find this open source release useful, please reference in your paper (it is our honor):
 ```
 @article{yang2021believe,
   title={Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning},
