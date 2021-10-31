@@ -24,7 +24,7 @@ The `requirements.txt` file can be used to install the necessary packages into a
 ## Quick Start
 In single-agent tasks:
 ```shell
-$ python3 run_agent.py
+$ python3 main.py
 ```
 In multi-agent tasks:
 ```shell
