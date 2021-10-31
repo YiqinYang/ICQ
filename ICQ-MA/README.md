@@ -16,7 +16,13 @@ The `requirements.txt` file can be used to install the necessary packages into a
 
 ## Running the code
 
+```shell
+$ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_name=MMM
 ```
-python run_agent.py --env <env_name>  --seed <seed_no>  --exp_name <experiment name> --algorithm 'AWAC'
-```
+The config files act as defaults for an algorithm or environment. 
 
+They are all located in `src/config`.
+`--config` refers to the config files in `src/config/algs`
+`--env-config` refers to the config files in `src/config/envs`
+
+All results will be stored in the `Results` folder.
