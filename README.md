@@ -36,6 +36,8 @@ They are all located in `src/config`.
 `--config` refers to the config files in `src/config/algs`
 `--env-config` refers to the config files in `src/config/envs`
 
+All results will be stored in the `Results` folder.
+
 ## Note
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
 + The implementation is based on [PyMARL](https://github.com/oxwhirl/pymarl), [SMAC](https://github.com/oxwhirl/smac) codebases and [DOP](https://github.com/TonghanWang/DOP) which are open-sourced.
