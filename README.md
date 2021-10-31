@@ -1,6 +1,6 @@
 # Implicit Constraint Q-Learning
 
-This is a pytorch implementation of ICQ on [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl), the corresponding paper of ICQ is [Believe What You See: Implicit Constraint Approach
+This is a pytorch implementation of ICQ on [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl) and ICQ-MA on [SMAC](https://github.com/oxwhirl/smac), the corresponding paper of ICQ is [Believe What You See: Implicit Constraint Approach
 for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400).
 
 ## Requirements
