@@ -28,4 +28,7 @@ They are all located in `src/config`.
 All results will be stored in the `Results` folder.
 
 ## About the dataset
-We found that GitHub limits the size of uploaded files. For this reason, we cannot upload the complete dataset on this part.
+We found that GitHub limits the size of uploaded files. For this reason we cannot upload the complete dataset on this part.
+However, we have upload the mini-dataset of the map `3s_vs_3z` to help you to run our code. To effectively run ICQ-MA, we recommend you 
++ contact me yangyiqi19@mails.tsinghua.edu.cn and I send you the complete dataset by email or other ways.
++ create your own dataset according to the form of the mini-dataset.
