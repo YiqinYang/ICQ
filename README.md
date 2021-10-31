@@ -22,3 +22,4 @@ $ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_nam
 ```
 ## Note
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
++ The implementation in multi-agent tasks is based on PyMARL and SMAC codebases which are open-sourced.
