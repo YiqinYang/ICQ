@@ -31,4 +31,5 @@ $ python3 src/main.py --config=offpg_smac --env-config=sc2 with env_args.map_nam
 ```
 ## Note
 + If you have any questions, please contact me: yangyiqi19@mails.tsinghua.edu.cn. 
-+ The implementation of the following methods can also be found in this codebase, which are finished by the authors of [PyMARL](https://github.com/oxwhirl/pymarl):
++ The implementation is based on [PyMARL](https://github.com/oxwhirl/pymarl), [SMAC](https://github.com/oxwhirl/smac) codebases and [DOP](https://github.com/TonghanWang/DOP) which are open-sourced.
+
